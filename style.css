@@ -1,0 +1,26 @@
+body{
+    background-color: gray;
+}
+
+#title, .subtitle, .post_title {
+    color: white
+}
+
+.post_title{
+    font-size: 16px;
+    font-style: italic;
+    margin: 0px;
+    margin-bottom: 15px;
+}
+
+.post{
+    background: white;
+    padding: 10px 5px;
+    border: 3px dashed black;
+    margin: 5px;
+}
+
+.post_content{
+    background: white;
+
+}
